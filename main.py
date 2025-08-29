@@ -6,7 +6,7 @@ owner_name = "Khen Lepasana" #string
 year_established = 1939 #integer
 popular_item_price = 320.00 #float
 has_delivery = True #boolean
-product_names = ["Truffle Pasta", "Cheese Pizza", "Caesar Salad"] #list
+product_names = ["Truffle Pasta", "Cheese Pizza", "Caesar Salad", "Iced Late", "Fresh Lemonade"] #list
 business_hours = "10:00 AM - 9:00 PM" #string
 menu_prices = {
     "Truffle Pasta": 320.00,
@@ -27,4 +27,5 @@ tax_rate = 0.09 #float
 #display(business_hours)
 #display(menu_prices)
 #display(common_allergens)
+
 #display(tax_rate)
